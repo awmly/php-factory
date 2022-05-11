@@ -1,0 +1,9 @@
+{
+	"name": "awmly/php",
+	"config": {
+		"vendor-dir": "web/lib/vendor"
+	},
+	"require": {
+		"phpmailer/phpmailer": "6.6.0"
+	}
+}
